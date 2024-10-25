@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.vectorstock.com/i/500p/23/07/web-blue-banner-software-ui-and-development-vector-42172307.jpg)
+![MasterHead](https://github.com/steve-ongera/Django-With-GraphQL/blob/main/screenshorts/bg.jpg)
 
 <h1 align="center">Hi 👋, I'm Steve Ongera</h1>
 <h3 align="center">A passionate full stack developer from Nairobi, Kenya</h3>
