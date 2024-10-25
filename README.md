@@ -1,4 +1,4 @@
-![MasterHead](https://scontent.fnbo18-1.fna.fbcdn.net/v/t39.30808-6/463072930_122102290976567344_2108363494353501654_n.png?stp=dst-png_s960x960&_nc_cat=104&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeETc4Pw7gULu4YyuPNhOH27Ye8xf_tKQWhh7zF_-0pBaDdJFqYMlTq_8BqnOeOTPRfkR3xG43ZNnAi6hDLv9F1F&_nc_ohc=lD9lhWxCHr0Q7kNvgGfdnSU&_nc_zt=23&_nc_ht=scontent.fnbo18-1.fna&_nc_gid=AFipG2EW-Hws-vTYcd03PR_&oh=00_AYBjusyROuv5MzdhjFEd-o_4jrEAEKofmeZBY75aMnFXrA&oe=67148C37)
+![MasterHead](https://cdn.vectorstock.com/i/500p/23/07/web-blue-banner-software-ui-and-development-vector-42172307.jpg)
 
 <h1 align="center">Hi 👋, I'm Steve Ongera</h1>
 <h3 align="center">A passionate full stack developer from Nairobi, Kenya</h3>
