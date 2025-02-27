@@ -1,7 +1,13 @@
 ![MasterHead](https://github.com/steve-ongera/Django-With-GraphQL/blob/main/screenshorts/bg.jpg)
 
-<h3 align="center">Hi 👋, I'm Steve Ongera</h3>
-<h4 align="center">A passionate full stack developer from Nairobi, Kenya</h3>
+## Hello, Steve Here 
+I am a passionate software developer with a strong background in software engineering. I specialize in designing and developing innovative software solutions that meet the specific needs of businesses and individuals. With expertise in various programming languages and technologies, I am committed to delivering high-quality, reliable, and user-friendly applications. Visit my portfolio [here](https://my-resume-c4o8.onrender.com/)
+
+### GitHub Analytics
+
+
+<img width="1500" src="https://github-readme-activity-graph.vercel.app/graph?username=steve-ongera&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
