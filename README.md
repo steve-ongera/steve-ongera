@@ -23,7 +23,7 @@
     <img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Steve Ongera | GitHub" />
   </a>
   <a href="https://www.youtube.com/c/gadafi_technologies" target="_blank">
-    <img align="right" src="https://github.com/steve-ongera/steve-ongera/blob/main/assets/youtube.png" alt="Steve Ongera | YouTube" />
+    <img align="right" src="https://github.com/steve-ongera/steve-ongera/blob/main/assets/youtube.svg" alt="Steve Ongera | YouTube" />
   </a>
 </div>
 
