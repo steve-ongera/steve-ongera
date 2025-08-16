@@ -22,7 +22,9 @@
   <a href="https://github.com/steve-ongera" target="_blank">
     <img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Steve Ongera | GitHub" />
   </a>
- 
+  <a href="https://www.youtube.com/c/gadafi_technologies" target="_blank">
+    <img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Youtube/youtube2.svg" alt="Steve Ongera | YouTube" />
+  </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
@@ -106,7 +108,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="20"> &ensp;<b> Stats </b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align=center style="display: flex; flex-direction: col; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<div align=center style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <span style="flex: 0 0 350px;"><a href="https://my-resume-c4o8.onrender.com/"><img width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=steve-ongera&show_icons=true&locale=en&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" /></a></span>
   
   <span style="flex: 0 0 350px;"><a href="https://my-resume-c4o8.onrender.com/"><img width=350  src="https://github-readme-stats.vercel.app/api?username=steve-ongera&show_icons=true&locale=en&count_private=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" /></a></span>
