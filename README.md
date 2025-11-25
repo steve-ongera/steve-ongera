@@ -118,5 +118,5 @@ I've been a **Software Developer** passionate about creating innovative solution
 ---
 
 <div align="center">
-  <i>⚡ Fun fact: I'm Funny | 📱 +254112284093</i>
+  <i>⚡ Fun fact: I'm Funny | 📱 +2547652872091</i>
 </div>
