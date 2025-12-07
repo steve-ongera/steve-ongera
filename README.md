@@ -70,7 +70,9 @@ I've been a **Software Developer** passionate about creating innovative solution
 <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/d377c4aa-e247-422c-8b0f-53145acd7705" align="right" width="15%" alt="pikachu-hi">
 
 <!--  MY GITHUB STAT  -->
-<p>  <img src="https://github-readme-stats.vercel.app/api?username=steve-ongera&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" /> </p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=steve-ongera&show_icons=true&theme=jolly&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
 
 <!--  DIVIDER  -->
 <img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
@@ -81,7 +83,9 @@ I've been a **Software Developer** passionate about creating innovative solution
 <img align="left" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/56189985-cfa7-4adb-a986-e5dcf056bddf" width="22%" alt="pikachu-hi">
 
 <!--  LANGUAGES USED  -->
-<p align="right"> <img style="align-item: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steve-ongera&custom_title=Languages%20I%20have%20used&layout=compact&theme=jolly&hide_border=true&hide_title=true" /> </p>
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steve-ongera&layout=compact&theme=jolly&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
 <!--  DIVIDER  -->
 <img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
@@ -90,7 +94,8 @@ I've been a **Software Developer** passionate about creating innovative solution
 
 <!--  CONTRIBUTION GRAPH  -->
 <div align="center">
-  <a href="https://github.com/steve-ongera/steve-ongera"><img alt="Steve's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=steve-ongera&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false&custom_title=Contribution⠀Graph" />
+  <a href="https://github.com/steve-ongera/steve-ongera">
+    <img alt="Steve's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=steve-ongera&theme=react-dark&hide_border=true&area=true" />
   </a>
 </div>
 
@@ -101,7 +106,9 @@ I've been a **Software Developer** passionate about creating innovative solution
 
 <!--  STREAK STATS  -->
 <div align="center">
-  <a href="https://my-resume-c4o8.onrender.com/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=steve-ongera&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=800" alt="streak stats"/></a>
+  <a href="https://my-resume-c4o8.onrender.com/">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=steve-ongera&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak Stats"/>
+  </a>
 </div>
 
 <!--  DIVIDER  -->
