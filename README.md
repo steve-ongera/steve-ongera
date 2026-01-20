@@ -1,6 +1,6 @@
 ## Steve Ongera | Software Engineer
 
-**Location:** Nairobi, Kenya | **Phone:** +254 757 790 687 | **Email:** steveongera001@gmail.com
+**Location:** Nairobi, Kenya | **Phone:** +254 112 284 093 | **Email:** steveongera001@gmail.com
 
 ### Professional Summary
 
@@ -108,6 +108,6 @@ ABSA Bank - Contributing to financial technology solutions and banking systems
 ---
 
 <div align="center">
-  <p><strong>Open to international opportunities in the United States and Dubai</strong></p>
+  <p><strong>Open to international opportunities . Kindly reach out via whatsapp / Email</strong></p>
   <p><i>Available for immediate consultation and project engagement</i></p>
 </div>
