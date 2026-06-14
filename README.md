@@ -1,29 +1,30 @@
-## Steve Ongera | Software Engineer
+# Hi there 👋 I'm Steve Ongera
+
+## Software Engineer | Full-Stack Developer | Kenya 🇰🇪
 
 **Location:** Nairobi, Kenya | **Phone:** +254 112 284 093 | **Email:** steveongera001@gmail.com
 
-### Professional Summary
+---
 
-Results-driven Software Engineer with a First Class Honours degree in Software Engineering from Murang'a University of Technology. Specialized in developing enterprise-grade solutions including Automation ERPs, Hospital Management Information Systems (HMIS), and scalable APIs. Proven track record of delivering robust software solutions in the financial services sector, with experience at ABSA Bank. Additional training from Moringa School has strengthened full-stack development capabilities.
+### 👨‍💻 About Me
 
-Currently seeking opportunities in international markets, particularly in the United States and Dubai, to leverage technical expertise in building mission-critical enterprise applications.
+I'm a passionate **Software Engineer** with a degree in Software Engineering from **Murang'a University of Technology**, complemented by full-stack training at **Moringa School**. I specialize in building enterprise-grade software — from **Automation ERP Systems** and **Hospital Management Information Systems (HMIS)** to **scalable REST and GraphQL APIs**.
 
-### Current Focus
+I enjoy solving real-world problems through clean, maintainable code and am actively open to **international remote opportunities** and **global collaborations** across any region.
 
-- **Automation ERP Systems** - Designing and implementing comprehensive enterprise resource planning solutions
-- **Hospital Management Information Systems (HMIS)** - Building healthcare technology solutions for improved patient care and operational efficiency
-- **API Development & Integration** - Creating scalable, secure RESTful and GraphQL APIs for enterprise applications
+---
 
-### GitHub Analytics
+### 🚀 What I'm Currently Building
 
-<div style="display: flex; justify-content: space-between;">
-  <img style="max-width: 48%;" src="https://streak-stats.demolab.com/?user=steve-ongera&theme=react" />
-  <img style="max-width: 48%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steve-ongera&layout=compact&langs_count=8&theme=dracula"/>
-</div>
+- 🏥 **Hospital Management Information Systems (HMIS)** — Healthcare tech for improved patient care and operational efficiency
+- ⚙️ **Automation ERP Systems** — Comprehensive enterprise resource planning solutions
+- 🔗 **API Development & Integration** — Secure, scalable RESTful and GraphQL APIs for enterprise applications
 
-<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=steve-ongera&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+---
 
-### Technical Expertise
+### 🛠️ Technical Skills
+
+**Languages & Frameworks**
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
@@ -77,20 +78,33 @@ Currently seeking opportunities in international markets, particularly in the Un
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv" />
 </p>
 
-### Education
+**Core Competencies:**
+`Python` `Django` `Django REST Framework` `React` `Node.js` `GraphQL` `PostgreSQL` `MongoDB` `Docker` `AWS` `REST APIs` `ERP Systems` `HMIS` `Full-Stack Development` `Mobile Development (Android/Kotlin)` `Machine Learning (PyTorch / TensorFlow)`
 
-**Bachelor of Science in Software Engineering** - First Class Honours  
+---
+
+### 📊 GitHub Analytics
+
+<div style="display: flex; justify-content: space-between;">
+  <img style="max-width: 48%;" src="https://streak-stats.demolab.com/?user=steve-ongera&theme=react" />
+  <img style="max-width: 48%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steve-ongera&layout=compact&langs_count=8&theme=dracula"/>
+</div>
+
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=steve-ongera&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+
+---
+
+### 🎓 Education
+
+**Bachelor of Science in Software Engineering**
 Murang'a University of Technology, Kenya
 
-**Full-Stack Software Development**  
+**Full-Stack Software Development**
 Moringa School
 
-### Professional Experience
+---
 
-**Software Developer**  
-ABSA Bank - Contributing to financial technology solutions and banking systems
-
-### Professional Links
+### 🔗 Connect with Me
 
 <a href="https://my-resume-c4o8.onrender.com/" target="_blank" rel="noopener noreferrer">
   <img align="center" src="https://img.shields.io/badge/-Portfolio-943be7?style=flat-square&logo=link&logoColor=white" alt="Portfolio" />
@@ -108,6 +122,6 @@ ABSA Bank - Contributing to financial technology solutions and banking systems
 ---
 
 <div align="center">
-  <p><strong>Open to international opportunities . Kindly reach out via whatsapp / Email</strong></p>
+  <p><strong>🌍 Open to remote and international opportunities worldwide — reach out via WhatsApp or Email</strong></p>
   <p><i>Available for immediate consultation and project engagement</i></p>
 </div>
