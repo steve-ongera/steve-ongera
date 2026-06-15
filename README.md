@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate **Software Engineer** with a degree in Software Engineering from **Murang'a University of Technology**, complemented by full-stack training at **Moringa School**. I specialize in building enterprise-grade software — from **Automation ERP Systems** and **Hospital Management Information Systems (HMIS)** to **scalable REST and GraphQL APIs**.
+I'm a passionate **Software Engineer** pursuing an IT degree  from **Murang'a University of Technology**, complemented by full-stack online training at **Moringa School**. I specialize in building enterprise-grade software — from **Automation ERP Systems** and **Hospital Management Information Systems (HMIS)** to **scalable REST and GraphQL APIs**.
 
 I enjoy solving real-world problems through clean, maintainable code and am actively open to **international remote opportunities** and **global collaborations** across any region.
 
